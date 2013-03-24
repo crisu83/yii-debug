@@ -43,7 +43,7 @@ To enable debugging with the following command:
 yiic debug on
 ```
 
-Optionally you can specify an ip filter (replace `{ip-address}` with the desired ip address):
+You can also enable debugging for a specific ip address (replace `{ip-address}` with the desired ip address):
 
 ```
 yiic debug on {ip-address}
